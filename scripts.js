@@ -1,7 +1,7 @@
 const API_KEY = '1276d4b9e2c4a8e5cfd0725fd5f4433f';
 const MOVIE_ENDPOINTS = [
-  'https://vidlink.pro/movie/',
   'https://vidsrc.dev/embed/movie/',
+  'https://vidlink.pro/movie/',
   'https://111movies.com/movie/',
   'https://vidjoy.pro/embed/movie/',
   'https://vidsrc.io/embed/movie/',
